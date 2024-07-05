@@ -1,0 +1,39 @@
+# Ignore les fichiers temporaires
+*.tmp
+*.log
+
+# Ignore les fichiers de build générés
+/build/
+/dist/
+/out/
+
+# Ignore les fichiers d'environnement locaux
+.env
+.env.local
+
+# Ignore les fichiers de configuration IDE
+.idea/
+.vscode/
+
+# Ignore les fichiers de dépendances npm
+node_modules/
+
+# Ignore les fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Ignore les fichiers de cache
+.cache/
+
+# Ignore les fichiers de sauvegarde
+*.bak
+*.swp
+*~
+
+# Ignore les fichiers d'archives
+*.zip
+*.rar
+*.gz
+*.bz2
+*.7z
